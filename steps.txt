@@ -1,0 +1,4 @@
+first install pycharm and python
+the use pip install -r requirements.txt
+in shell
+then install all modules and run it
